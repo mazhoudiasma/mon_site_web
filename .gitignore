@@ -1,9 +1,6 @@
 tmp/todo.txt
 tmp/*
-<<<<<<< HEAD
 *.xml
 *.txt
 
-=======
-*.txt
->>>>>>> dcaff553b350618256a05d60c4c6c73e656ae53c
+
